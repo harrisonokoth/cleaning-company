@@ -1,6 +1,5 @@
 # Your Clean Pal Co - Professional Cleaning Services Website
 
-![Your Clean Pal Co Logo](https://via.placeholder.com/150x50?text=Your+Clean+Pal+Co)
 
 A modern, responsive website for Your Clean Pal Co, a professional cleaning service based in Kilifi, Kenya. The website showcases services, company information, and provides a contact form for potential clients.
 
